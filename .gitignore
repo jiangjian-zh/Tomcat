@@ -1,0 +1,15 @@
+.classpath
+.gradle
+.idea
+.metadata
+.project
+bin
+!server/bin
+build
+out
+*.log
+*.old
+*.iml
+*.ipr
+*.iws
+*.pid
